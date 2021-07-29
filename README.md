@@ -2,7 +2,7 @@
 
 ## CSS Object Model
 
-See [https://sazumivicky.github.io/sazumi-parser-tools).
+View https://sazumivicky.github.io/sazumi-parser-tools ( The tool has been closed by the author )
 
 ## Commands
 
