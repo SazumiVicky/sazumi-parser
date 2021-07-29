@@ -71,4 +71,4 @@ npm run build
 npm run test
 ```
 
-All checks should pass.
+Copyright 2008-2021 Sazumi Vicky All Right Reserved
