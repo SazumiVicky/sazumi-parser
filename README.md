@@ -2,7 +2,7 @@
 
 ## CSS Object Model
 
-See [src/values/README.md](src/values/README.md).
+See [https://sazumivicky.github.io/sazumi-parser-tools).
 
 ## Commands
 
