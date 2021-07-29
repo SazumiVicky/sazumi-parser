@@ -2,7 +2,7 @@
 
 ## CSS Object Model
 
-View https://bit.ly/3rGpwwE ( The tool has been closed by the author )
+View https://bit.ly/3rGpwwE ( The tool has been closed by the sazumi vicky )
 
 ## Commands
 
