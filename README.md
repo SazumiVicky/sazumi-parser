@@ -38,37 +38,9 @@ PostCSS/Selector/Value Parsers: 28491 values in 74 ms (6.3 times slower)
 npm run build
 ```
 
-```
-┌─────────────────────────────────┐
-│                                 │
-│   Destination: dist/index.cjs   │
-│   Bundle Size:  39.16 KB        │
-│   Minified Size:  12.51 KB      │
-│   Gzipped Size:  3.32 KB        │
-│                                 │
-└─────────────────────────────────┘
-┌─────────────────────────────────┐
-│                                 │
-│   Destination: dist/index.mjs   │
-│   Bundle Size:  38.97 KB        │
-│   Minified Size:  12.34 KB      │
-│   Gzipped Size:  3.27 KB        │
-│                                 │
-└─────────────────────────────────┘
-┌─────────────────────────────────────┐
-│                                     │
-│   Destination: dist/index.iife.js   │
-│   Bundle Size:  9.31 KB             │
-│   Minified Size:  9.31 KB           │
-│   Gzipped Size:  2.8 KB             │
-│                                     │
-└─────────────────────────────────────┘
-```
-
 ### Test
 
 ```shell
 npm run test
 ```
-
-All checks should pass.
+©copyright 2008-2021 sazumi vicky all right reserved.
